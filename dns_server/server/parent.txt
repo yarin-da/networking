@@ -1,0 +1,7 @@
+biu.ac.il,132.70.196.37,180
+google.com,8.8.8.8,240
+youtube.com,216.58.204.14,300
+walla.com,13.225.255.62,150
+facebook.com,157.240.221.35,210
+instagram.com,34.199.142.235,10
+twitter.com,104.244.42.129,200
